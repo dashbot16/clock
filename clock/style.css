@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background:black;
+}
+
+main {
+    margin-top: 25em;
+    text-align: center;
+}
+
+#clock {
+    font-family: 'Cormorant Unicase', serif;
+    font-size: 10rem;
+    color:crimson;
+}
